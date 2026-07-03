@@ -1,0 +1,4 @@
+interface:
+  display_name: "配置 Codex YD"
+  short_description: "配置独立的 Codex YD 启动入口。"
+  default_prompt: "使用 $configure-codex-yd 配置独立的 Codex YD profile 和启动入口。"
